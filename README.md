@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Mohanadfarid/Mohanadfarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohanad Farid, a passionate Front-end React Developer based in Giza ,Egypt.
 
-Here are some ideas to get you started:
+🚀 I specialize in building interactive and responsive web applications using React.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm currently working on my portfolio and constantly exploring new technologies and tools.
+
+## 🔧 Technologies & Tools
+
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 & CSS3 (SASS/SCSS)
+- Git & GitHub
+  
+
+## 🌱 Currently Learning
+
+- TypeScript
+- React- TypeScript integration
+
+## 📫 Let's Connect
+
+- LinkedIn: [linked in](https://www.linkedin.com/in/mohanad-farid-485182218)
+- Email: mohanadfrid733@gmail.com
