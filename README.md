@@ -22,5 +22,6 @@ I'm Mohanad Farid, a passionate Front-end React Developer based in Giza ,Egypt.
 
 ## 📫 Let's Connect
 
+- Portfolio: [portfolio](https://mohanad-farid.netlify.app/)
 - LinkedIn: [linked in](https://www.linkedin.com/in/mohanad-farid-485182218)
 - Email: mohanadfrid733@gmail.com
