@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mohanad Farid, a passionate Front-end React Developer based in Giza ,Egypt.
+I'm Mohanad Farid, a passionate Front-end Developer based in Giza, Egypt.
 
 🚀 I specialize in building interactive and responsive web applications using React.js.
 
@@ -9,6 +9,11 @@ I'm Mohanad Farid, a passionate Front-end React Developer based in Giza ,Egypt.
 ## 🔧 Technologies & Tools
 
 - React.js
+- Vue.js
+- Bootstrap
+- Vuetify
+- Pinia
+- Redux & Redux Toolkit
 - TypeScript
 - JavaScript (ES6+)
 - HTML5 & CSS3 (SASS/SCSS)
@@ -17,8 +22,8 @@ I'm Mohanad Farid, a passionate Front-end React Developer based in Giza ,Egypt.
 
 ## 🌱 Currently Learning
 
-- TypeScript
-- React- TypeScript integration
+- Node.js
+- Next.js
 
 ## 📫 Let's Connect
 
