@@ -24,6 +24,7 @@ I'm Mohanad Farid, a passionate Front-end Developer based in Giza, Egypt.
 
 - Node.js
 - Next.js
+- progressive web apps & service workers
 
 ## 📫 Let's Connect
 
