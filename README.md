@@ -8,11 +8,15 @@ I'm Mohanad Farid, a passionate Front-end Developer based in Giza, Egypt.
 
 ## 🔧 Technologies & Tools
 
-- React.js
 - Vue.js
+- Nuxt.js
+- React.js
+- Tailwindcss
 - Bootstrap
 - Vuetify
+- PrimeVue
 - Pinia
+- VeeValidate
 - Redux & Redux Toolkit
 - TypeScript
 - JavaScript (ES6+)
